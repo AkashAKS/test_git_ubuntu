@@ -1,0 +1,4 @@
+
+#Excluding all .o (object files ) from compilation
+
+*.o
